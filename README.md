@@ -1,4 +1,5 @@
-# ConnectBleDevice
+# Connecting to Bleutooth Device
+#### Company : Mobil Med Location : IYTE - TechnoPark
 Scans for Bluetooth low energy (BLE) devices - Parses advertisement data - 
 Shows RSSI graph, allows export to CSV and Excel formats - 
 Connects to a connectible the Bluetooth Smart device - 
